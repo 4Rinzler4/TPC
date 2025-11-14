@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/email/OneDrive/Робочий стіл/tpc",
-      "program": "c:/Users/email/OneDrive/Робочий стіл/tpc/build/Debug/outDebug",
+      "cwd": "c:/Users/email/OneDrive/Робочий стіл/tpc/TPC",
+      "program": "c:/Users/email/OneDrive/Робочий стіл/tpc/TPC/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
